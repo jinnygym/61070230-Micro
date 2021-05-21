@@ -1,11 +1,11 @@
 # Project Microprocessor : Object Detection Models on the Raspberry Pi
+<img src="Other-img/TFLite_detection.png">
 
 ## Details :memo:
 - Object Detection ตรวจจับวัตถุด้วย Python และ TensorFlow ร่วมกับ Opencv 
 
-[<img src="Other-img/TFLite_detection.png">]
 
-## Setting up project:
+## Setting up project: :computer:
 ```ruby
 # Install dependencies
 sudo apt-get update
@@ -71,14 +71,10 @@ python -c "import cv2; print(cv2.__version__)"
 
 ## Install TensorFlow and Set up TensorFlow Lite detection model
 accessed here : https://github.com/EdjeElectronics/TensorFlow-Lite-Object-Detection-on-Android-and-Raspberry-Pi/blob/master/Raspberry_Pi_Guide.md
+
 ## Usage
 ```ruby
 cd tflite1
 source tflite1-env/bin/activate
 python3 TFLite_detection_webcam.py --modeldir=Sample_TFLite_model
 ```
-
-
-
-
-
