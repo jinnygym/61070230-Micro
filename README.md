@@ -3,7 +3,7 @@
 ## Details :memo:
 - Object Detection ตรวจจับวัตถุด้วย Python และ TensorFlow ร่วมกับ Opencv 
 
-[<img src="Other-img/IT_kmitl (1).png">]
+[<img src="Other-img/TFLite_detection.png">]
 
 ## Setting up project:
 ```ruby
