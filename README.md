@@ -2,7 +2,7 @@
 <img src="Other-img/TFLite_detection.png">
 
 ## Details :memo:
-- Object Detection ตรวจจับวัตถุด้วย Python และ TensorFlow ร่วมกับ Opencv 
+- Object Detection ตรวจจับวัตถุด้วย Python และ TensorFlow ร่วมกับ Opencv เมื่อตรวจจับเจอ Person ไฟ RGB จะติด และกระพริบ ๆ 
 
 
 ## Setting up project: :computer:
